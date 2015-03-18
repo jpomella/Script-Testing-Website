@@ -27,7 +27,7 @@ function startAjaxJSON() {
  
 function startAjaxPOST() {
 
-	var empytyBaseURL = "http://wmsolutions.com.au/SFScripts/scripts/addAccounts/addaccount.php";
+	var empytyBaseURL = "scripts/test.php";
 	var data = "orgid=33&australiapostkey=333&fastwaycourierskey=333&tntkey=333&validsubscription=1";
 			
 		$.ajax({
